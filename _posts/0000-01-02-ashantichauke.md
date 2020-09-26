@@ -1,6 +1,6 @@
 ---
-layout : slide
-title : "Welcome to our second slide!"
+layout : smile
+title : "Welcome to the party, we're here for a good time"
 ---
-Your Test
-Use the left arrow to go back!
+So tell me 
+What kind of music are you into?
