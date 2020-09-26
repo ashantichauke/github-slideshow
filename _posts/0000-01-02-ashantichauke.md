@@ -1,5 +1,5 @@
 ---
-layout : smile
+layout : smile *chesse*
 title : "Welcome to the party, we're here for a good time"
 ---
 So tell me 
